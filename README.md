@@ -1,1 +1,12 @@
 https://refactoring.guru/
+https://github.com/anomaly2104
+https://github.com/InterviewReady
+https://github.com/coding-parrot
+https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
+https://github.com/ashishps1/awesome-low-level-design
+https://leetcode.com/discuss/interview-experience/3228851/Flipkart-SDE-2-Feb-2023
+https://github.com/Saurabh1999/flipkart-machine-coding/tree/main/flipkart-overflow
+https://github.com/niteshkumartiwari/LLD-Practice
+https://github.com/imkgarg/Awesome-Software-Engineering-Interview/blob/master/LowLevelDesign.md
+https://github.com/kumaransg/LLD
+https://github.com/gopalbala?tab=repositories
